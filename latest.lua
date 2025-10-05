@@ -1,1 +1,1 @@
-Instance.new("Part")
+Instance.new("Part").Parent = workspace
